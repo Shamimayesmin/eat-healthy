@@ -1,0 +1,39 @@
+.orange-color{
+    color:orange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 20px;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border-radius: 40px;
+    color:white;
+    font-weight: 700;
+    background-position: bottom;
+    
+}
+.about-me{
+    background-image: url(images/background-img-bg.png);
+    background-repeat: no-repeat;
+}
